@@ -1,15 +1,6 @@
 # TampaServe
 A volunteer matching platform for Tampa Bay, allowing non-profits to post opportunities and volunteers to find positions
 
-##### To use this app: clone this repo, in the root of bonus folder create a .env file with these variables PORT=9000 DATABASE=YOUR_MONGO_URL JWT_SECRET=fidbfbFCDSm1558 NODE_ENV=development if in development mode and NODE_ENV=production if you're deploying your App; after that, run "npm install" in the bonus root folder. Go inside frontend folder in bonus folder, run "npm install "
-
-![My Image](bonus/frontend/src/images/jobportaledit.png)
-
-![My Image](bonus/frontend/src/images/dashboardjob.png)
-
-
-
-# Features:
 ##### - Software Architecture: MVC pattern;
 ##### - HOC (High Order Component);
 ##### - Dark & Light theme mode with MUI (Material UI);
